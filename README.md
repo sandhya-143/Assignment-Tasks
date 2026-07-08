@@ -1,4 +1,4 @@
-DataScience Internship  Tasks
+DataScience Internship  Tasks(Assignments)
   1. Basics of Python
   2. Data Structures numpy, pandas
   3. Basic Statistics - I
