@@ -5,5 +5,5 @@ DataScience Internship  Tasks(Assignments)
   4. Basic Statistics - II
   5. Exploratory Data Analysis
   6. Hypothesis Testing
-  7. Logistic Regression
-  8. Multiple Linear Regression
+  7. Multiple Linear Regression
+  8. Logistic Regression
